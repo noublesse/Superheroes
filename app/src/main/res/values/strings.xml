@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="hero1">Spiderman</string>
+    <string name="description1">The spider Hero</string>
+    <string name="hero2">Venom</string>
+    <string name="description2">The Dark Hero Monster</string>
+    <string name="hero3">Thor</string>
+    <string name="description3">The Lightning of Asgard</string>
+    <string name="hero4">Iron Man</string>
+    <string name="description4">a genius hero with his technology</string>
+    <string name="hero5">Superman</string>
+    <string name="description5">Human With Unlimited Power</string>
+    <string name="hero6">Black Panther</string>
+    <string name="description6">Wakanda Forever</string>
+</resources>
